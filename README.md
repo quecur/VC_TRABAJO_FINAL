@@ -4,6 +4,9 @@
 
 ![image](https://github.com/user-attachments/assets/03965ae1-802a-4d24-8820-0c8b30e0830a)
 
+# ENLACE VIDEO DEMOSTRACIÓN
+https://drive.google.com/file/d/18292oUll6Ew-xjoHFV9fev_F0rqiPTwZ/view?usp=sharing
+
 # INTRODUCCIÓN
 
 Actualmente y desde hace mucho tiempo la tecnología empleada para reproducir partidas de ajedrez a nivel competitivo consiste en la utilización de tableros electrónicos de alto coste con sensores físicos para registrar el movimiento y la posición de las piezas. Es por ello por lo que, resulta interesante realizar una aproximación alternativa mediante el uso de visión por computador para este propósito.
